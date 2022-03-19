@@ -13,7 +13,7 @@ class _VideoCallScreenState extends State<VideoCallScreen> {
         appId: "YOUR_APP_ID",
         channelName: "fuck",
         tempToken:
-            "YOUR_TOKEN"),
+            "YOUR_TOKN"),
     enabledPermission: [
       Permission.camera,
       Permission.microphone,
